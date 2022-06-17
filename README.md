@@ -4,22 +4,23 @@
 ![Eco Status](https://img.shields.io/badge/ECO-Friendly-green.svg)
 [![Discord](https://discord.com/api/guilds/571393319201144843/widget.png)](https://discord.gg/dRwW4rw)
 
-# FAQ
+# Accordion
 
 _39 group website project_
 
 This project is for educational purposes only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://anonsas.github.io/02-astronaut/
+Site published at: https://anonsas.github.io/03-Accordion/
 
 ## Project features
 
 - JavaScript
-- pseudo-element
+- pseudo-elements
 - transition
 - max-height
 - animation
 - media queries
+- overflow
 
 ## Authors
 
